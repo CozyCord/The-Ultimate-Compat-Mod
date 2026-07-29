@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "The Ultimate Compat Mod",
-  "description": "Consolidates duplicate ingredients between Farmer's Delight, Let's Do: Farm & Charm, Candlelight, and other -delight / Let's Do addons. Loot tables, recipes, tags, and quests are unified so a tomato from any mod works in any mod's recipes. Duplicates are hidden in favor of Farmer's Delight's items.",
+  "description": "The Ultimate Compat Mod. The sole purpose is to fix those compat issues with all of these big mods. Now you can have them work together cohesively!",
   "authors": [
     "CozyStudios"
   ],
