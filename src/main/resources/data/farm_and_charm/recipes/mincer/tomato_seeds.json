@@ -1,0 +1,11 @@
+{
+  "type": "farm_and_charm:mincer",
+  "ingredient": {
+    "tag": "c:crops/tomato"
+  },
+  "recipe_type": "MEAT",
+  "result": {
+    "item": "farmersdelight:tomato_seeds",
+    "count": 4
+  }
+}

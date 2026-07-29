@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A  ",
+    "A#A",
+    "O O"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:wool"
+    },
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "O": {
+      "item": "biomeswevegone:palm_planks"
+    }
+  },
+  "result": {
+    "item": "beachparty:palm_chair",
+    "count": 2
+  }
+}

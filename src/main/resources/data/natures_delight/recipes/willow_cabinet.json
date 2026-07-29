@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "biomeswevegone:willow_trapdoor"
+    },
+    "_": {
+      "item": "biomeswevegone:willow_slab"
+    }
+  },
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "result": {
+    "item": "natures_delight:willow_cabinet"
+  },
+  "show_notification": true
+}

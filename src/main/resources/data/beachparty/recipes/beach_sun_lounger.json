@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##O",
+    "OOO"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:wool"
+    },
+    "O": {
+      "item": "biomeswevegone:palm_planks"
+    }
+  },
+  "result": {
+    "item": "beachparty:beach_sun_lounger",
+    "count": 1
+  }
+}

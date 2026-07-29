@@ -1,0 +1,6 @@
+{
+  "replace": true,
+  "values": [
+    {"id": "farmersdelight:tomato", "required": false}
+  ]
+}

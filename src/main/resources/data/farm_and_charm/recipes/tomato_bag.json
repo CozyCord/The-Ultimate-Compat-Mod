@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "grape_bag",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:crops/tomato"
+    }
+  },
+  "result": {
+    "item": "farm_and_charm:tomato_bag"
+  }
+}

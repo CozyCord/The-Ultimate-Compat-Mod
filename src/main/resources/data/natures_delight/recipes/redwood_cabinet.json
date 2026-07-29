@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "biomeswevegone:redwood_trapdoor"
+    },
+    "_": {
+      "item": "biomeswevegone:redwood_slab"
+    }
+  },
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "result": {
+    "item": "natures_delight:redwood_cabinet"
+  },
+  "show_notification": true
+}

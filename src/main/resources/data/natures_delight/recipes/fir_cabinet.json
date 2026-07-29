@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "biomeswevegone:fir_trapdoor"
+    },
+    "_": {
+      "item": "biomeswevegone:fir_slab"
+    }
+  },
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "result": {
+    "item": "natures_delight:fir_cabinet"
+  },
+  "show_notification": true
+}

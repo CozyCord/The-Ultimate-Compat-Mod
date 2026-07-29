@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:crops/cabbage"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:cabbage_seeds",
+    "count": 3
+  }
+}

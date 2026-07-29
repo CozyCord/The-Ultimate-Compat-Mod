@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "biomeswevegone:aspen_trapdoor"
+    },
+    "_": {
+      "item": "biomeswevegone:aspen_slab"
+    }
+  },
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "result": {
+    "item": "natures_delight:aspen_cabinet"
+  },
+  "show_notification": true
+}

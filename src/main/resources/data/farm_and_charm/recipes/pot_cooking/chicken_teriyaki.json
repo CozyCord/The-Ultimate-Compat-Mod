@@ -1,0 +1,25 @@
+{
+  "type": "farm_and_charm:pot_cooking",
+  "ingredients": [
+    {
+      "item": "candlelight:harvest_plate"
+    },
+    {
+      "item": "farmersdelight:chicken_cuts"
+    },
+    {
+      "tag": "farm_and_charm:cabbage"
+    }
+  ],
+  "container": {
+    "required": true,
+    "item": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "candlelight:chicken_teriyaki",
+    "count": 4
+  },
+  "requiresLearning": false
+}
