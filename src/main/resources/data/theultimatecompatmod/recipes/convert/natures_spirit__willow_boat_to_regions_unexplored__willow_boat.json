@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:willow_boat" },
+  "result": { "item": "regions_unexplored:willow_boat", "count": 1 }
+}

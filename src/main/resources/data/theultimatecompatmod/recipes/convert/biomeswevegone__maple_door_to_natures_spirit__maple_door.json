@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:maple_door" },
+  "result": { "item": "natures_spirit:maple_door", "count": 1 }
+}

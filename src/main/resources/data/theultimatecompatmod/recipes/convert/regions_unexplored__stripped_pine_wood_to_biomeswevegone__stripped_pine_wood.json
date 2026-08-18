@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:stripped_pine_wood" },
+  "result": { "item": "biomeswevegone:stripped_pine_wood", "count": 1 }
+}

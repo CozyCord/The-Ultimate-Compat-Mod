@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:pine_planks" },
+  "result": { "item": "regions_unexplored:pine_planks", "count": 1 }
+}

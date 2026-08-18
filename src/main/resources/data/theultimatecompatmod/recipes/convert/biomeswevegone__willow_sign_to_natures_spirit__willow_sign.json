@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:willow_sign" },
+  "result": { "item": "natures_spirit:willow_sign", "count": 1 }
+}

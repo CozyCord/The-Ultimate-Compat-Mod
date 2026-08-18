@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "beachparty:palm_pressure_plate" },
+  "result": { "item": "biomeswevegone:palm_pressure_plate", "count": 1 }
+}

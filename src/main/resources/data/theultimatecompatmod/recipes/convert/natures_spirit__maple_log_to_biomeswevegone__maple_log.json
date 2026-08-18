@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:maple_log" },
+  "result": { "item": "biomeswevegone:maple_log", "count": 1 }
+}

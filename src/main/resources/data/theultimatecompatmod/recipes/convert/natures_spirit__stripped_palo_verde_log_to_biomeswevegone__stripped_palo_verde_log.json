@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:stripped_palo_verde_log" },
+  "result": { "item": "biomeswevegone:stripped_palo_verde_log", "count": 1 }
+}

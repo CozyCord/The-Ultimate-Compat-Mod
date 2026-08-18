@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "clutter:redwood_pressure_plate" },
+  "result": { "item": "biomeswevegone:redwood_pressure_plate", "count": 1 }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "beachparty:stripped_palm_log" },
+  "result": { "item": "biomeswevegone:stripped_palm_log", "count": 1 }
+}

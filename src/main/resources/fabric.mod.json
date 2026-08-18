@@ -17,6 +17,9 @@
     ],
     "client": [
       "net.cozystudios.theultimatecompatmod.TheUltimateCompatModClient"
+    ],
+    "jei_mod_plugin": [
+      "net.cozystudios.theultimatecompatmod.compat.jei.TheUltimateCompatModJEIPlugin"
     ]
   },
 
@@ -31,8 +34,5 @@
   "recommends": {
     "candlelight": "*",
     "jei": "*"
-  },
-  "custom": {
-    "jei_plugin": "net.cozystudios.theultimatecompatmod.compat.jei.TheUltimateCompatModJEIPlugin"
   }
 }

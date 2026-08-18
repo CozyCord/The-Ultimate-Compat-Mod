@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:maple_slab" },
+  "result": { "item": "biomeswevegone:maple_slab", "count": 1 }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:joshua_fence" },
+  "result": { "item": "natures_spirit:joshua_fence", "count": 1 }
+}

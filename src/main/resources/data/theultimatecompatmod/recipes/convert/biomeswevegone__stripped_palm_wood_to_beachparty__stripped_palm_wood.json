@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:stripped_palm_wood" },
+  "result": { "item": "beachparty:stripped_palm_wood", "count": 1 }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:palm_wood" },
+  "result": { "item": "beachparty:palm_wood", "count": 1 }
+}

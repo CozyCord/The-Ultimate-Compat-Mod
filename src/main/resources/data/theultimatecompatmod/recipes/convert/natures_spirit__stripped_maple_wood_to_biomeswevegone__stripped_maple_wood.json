@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:stripped_maple_wood" },
+  "result": { "item": "biomeswevegone:stripped_maple_wood", "count": 1 }
+}

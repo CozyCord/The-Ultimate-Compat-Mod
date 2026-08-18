@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:maple_sign" },
+  "result": { "item": "natures_spirit:maple_sign", "count": 1 }
+}

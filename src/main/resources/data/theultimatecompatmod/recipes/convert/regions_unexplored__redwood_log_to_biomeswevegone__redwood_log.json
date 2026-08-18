@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:redwood_log" },
+  "result": { "item": "biomeswevegone:redwood_log", "count": 1 }
+}

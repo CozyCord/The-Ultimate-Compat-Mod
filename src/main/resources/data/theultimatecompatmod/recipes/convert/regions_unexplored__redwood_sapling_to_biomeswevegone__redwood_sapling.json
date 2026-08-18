@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:redwood_sapling" },
+  "result": { "item": "biomeswevegone:redwood_sapling", "count": 1 }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "beachparty:palm_sign" },
+  "result": { "item": "regions_unexplored:palm_sign", "count": 1 }
+}

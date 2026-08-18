@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:palm_stairs" },
+  "result": { "item": "regions_unexplored:palm_stairs", "count": 1 }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:baobab_pressure_plate" },
+  "result": { "item": "regions_unexplored:baobab_pressure_plate", "count": 1 }
+}

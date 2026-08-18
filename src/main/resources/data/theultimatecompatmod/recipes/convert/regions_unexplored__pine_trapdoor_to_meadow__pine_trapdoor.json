@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:pine_trapdoor" },
+  "result": { "item": "meadow:pine_trapdoor", "count": 1 }
+}

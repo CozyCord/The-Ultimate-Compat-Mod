@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:cypress_button" },
+  "result": { "item": "regions_unexplored:cypress_button", "count": 1 }
+}

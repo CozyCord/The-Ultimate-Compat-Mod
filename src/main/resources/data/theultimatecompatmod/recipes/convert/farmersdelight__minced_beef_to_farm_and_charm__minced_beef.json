@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "farmersdelight:minced_beef" },
+  "result": { "item": "farm_and_charm:minced_beef", "count": 1 }
+}

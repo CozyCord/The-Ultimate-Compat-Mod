@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "beachparty:palm_log" },
+  "result": { "item": "biomeswevegone:palm_log", "count": 1 }
+}

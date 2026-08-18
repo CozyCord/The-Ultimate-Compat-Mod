@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:redwood_leaves" },
+  "result": { "item": "natures_spirit:redwood_leaves", "count": 1 }
+}

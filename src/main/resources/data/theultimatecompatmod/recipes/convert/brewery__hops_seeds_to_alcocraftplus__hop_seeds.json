@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "brewery:hops_seeds" },
+  "result": { "item": "alcocraftplus:hop_seeds", "count": 1 }
+}

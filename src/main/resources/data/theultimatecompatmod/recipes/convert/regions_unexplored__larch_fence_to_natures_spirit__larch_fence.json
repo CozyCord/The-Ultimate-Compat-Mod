@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:larch_fence" },
+  "result": { "item": "natures_spirit:larch_fence", "count": 1 }
+}

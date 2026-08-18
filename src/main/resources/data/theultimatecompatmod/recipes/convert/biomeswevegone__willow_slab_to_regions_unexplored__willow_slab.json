@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:willow_slab" },
+  "result": { "item": "regions_unexplored:willow_slab", "count": 1 }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:joshua_sapling" },
+  "result": { "item": "natures_spirit:joshua_sapling", "count": 1 }
+}

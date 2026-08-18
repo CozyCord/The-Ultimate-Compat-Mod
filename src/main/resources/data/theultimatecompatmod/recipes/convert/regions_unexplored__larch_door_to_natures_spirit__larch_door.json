@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:larch_door" },
+  "result": { "item": "natures_spirit:larch_door", "count": 1 }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:pine_pressure_plate" },
+  "result": { "item": "meadow:pine_pressure_plate", "count": 1 }
+}

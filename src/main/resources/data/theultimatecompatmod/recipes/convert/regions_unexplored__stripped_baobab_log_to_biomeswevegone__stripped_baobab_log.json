@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:stripped_baobab_log" },
+  "result": { "item": "biomeswevegone:stripped_baobab_log", "count": 1 }
+}

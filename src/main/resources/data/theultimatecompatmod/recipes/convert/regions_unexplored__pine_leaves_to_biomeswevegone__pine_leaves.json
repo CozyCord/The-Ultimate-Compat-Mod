@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:pine_leaves" },
+  "result": { "item": "biomeswevegone:pine_leaves", "count": 1 }
+}

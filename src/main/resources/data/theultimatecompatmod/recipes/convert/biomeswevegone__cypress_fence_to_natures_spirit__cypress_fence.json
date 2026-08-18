@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:cypress_fence" },
+  "result": { "item": "natures_spirit:cypress_fence", "count": 1 }
+}

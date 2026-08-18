@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:stripped_redwood_wood" },
+  "result": { "item": "clutter:stripped_redwood_wood", "count": 1 }
+}

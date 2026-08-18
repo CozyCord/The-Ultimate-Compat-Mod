@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:palo_verde_sapling" },
+  "result": { "item": "biomeswevegone:palo_verde_sapling", "count": 1 }
+}

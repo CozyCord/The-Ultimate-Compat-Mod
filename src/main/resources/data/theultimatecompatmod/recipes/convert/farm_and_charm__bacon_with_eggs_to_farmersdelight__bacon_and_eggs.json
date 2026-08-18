@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "farm_and_charm:bacon_with_eggs" },
+  "result": { "item": "farmersdelight:bacon_and_eggs", "count": 1 }
+}

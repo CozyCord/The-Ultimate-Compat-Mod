@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "farmersdelight:dog_food" },
+  "result": { "item": "farm_and_charm:dog_food", "count": 1 }
+}

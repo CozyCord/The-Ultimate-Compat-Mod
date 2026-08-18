@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:redwood_fence_gate" },
+  "result": { "item": "clutter:redwood_fence_gate", "count": 1 }
+}

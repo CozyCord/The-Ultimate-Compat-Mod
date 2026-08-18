@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:joshua_log" },
+  "result": { "item": "natures_spirit:joshua_log", "count": 1 }
+}

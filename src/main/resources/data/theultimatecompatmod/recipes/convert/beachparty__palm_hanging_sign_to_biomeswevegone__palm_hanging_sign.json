@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "beachparty:palm_hanging_sign" },
+  "result": { "item": "biomeswevegone:palm_hanging_sign", "count": 1 }
+}

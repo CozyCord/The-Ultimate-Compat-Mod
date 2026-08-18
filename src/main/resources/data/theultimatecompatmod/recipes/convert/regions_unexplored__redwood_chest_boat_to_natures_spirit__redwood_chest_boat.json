@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:redwood_chest_boat" },
+  "result": { "item": "natures_spirit:redwood_chest_boat", "count": 1 }
+}

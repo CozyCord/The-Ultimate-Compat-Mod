@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:baobab_hanging_sign" },
+  "result": { "item": "regions_unexplored:baobab_hanging_sign", "count": 1 }
+}

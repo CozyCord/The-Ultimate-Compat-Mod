@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:cypress_sapling" },
+  "result": { "item": "natures_spirit:cypress_sapling", "count": 1 }
+}

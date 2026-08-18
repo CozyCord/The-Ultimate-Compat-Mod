@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:joshua_pressure_plate" },
+  "result": { "item": "regions_unexplored:joshua_pressure_plate", "count": 1 }
+}

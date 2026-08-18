@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:cypress_chest_boat" },
+  "result": { "item": "biomeswevegone:cypress_chest_boat", "count": 1 }
+}

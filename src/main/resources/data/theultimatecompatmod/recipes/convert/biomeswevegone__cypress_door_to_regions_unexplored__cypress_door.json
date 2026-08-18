@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:cypress_door" },
+  "result": { "item": "regions_unexplored:cypress_door", "count": 1 }
+}

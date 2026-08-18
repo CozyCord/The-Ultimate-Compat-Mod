@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "farmersdelight:wheat_dough" },
+  "result": { "item": "candlelight:dough", "count": 1 }
+}

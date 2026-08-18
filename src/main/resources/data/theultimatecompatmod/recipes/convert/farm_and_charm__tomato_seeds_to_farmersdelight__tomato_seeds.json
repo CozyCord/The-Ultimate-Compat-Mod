@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "farm_and_charm:tomato_seeds" },
+  "result": { "item": "farmersdelight:tomato_seeds", "count": 1 }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "clutter:stripped_redwood_wood" },
+  "result": { "item": "natures_spirit:stripped_redwood_wood", "count": 1 }
+}

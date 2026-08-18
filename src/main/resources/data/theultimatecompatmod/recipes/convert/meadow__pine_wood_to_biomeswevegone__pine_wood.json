@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "meadow:pine_wood" },
+  "result": { "item": "biomeswevegone:pine_wood", "count": 1 }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:baobab_slab" },
+  "result": { "item": "regions_unexplored:baobab_slab", "count": 1 }
+}

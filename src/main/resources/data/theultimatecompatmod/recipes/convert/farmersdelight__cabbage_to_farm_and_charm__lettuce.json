@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "farmersdelight:cabbage" },
+  "result": { "item": "farm_and_charm:lettuce", "count": 1 }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "clutter:hops_seeds" },
+  "result": { "item": "brewery:hops_seeds", "count": 1 }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:maple_wood" },
+  "result": { "item": "regions_unexplored:maple_wood", "count": 1 }
+}

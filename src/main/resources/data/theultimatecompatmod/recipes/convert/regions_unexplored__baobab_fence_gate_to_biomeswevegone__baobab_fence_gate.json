@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:baobab_fence_gate" },
+  "result": { "item": "biomeswevegone:baobab_fence_gate", "count": 1 }
+}

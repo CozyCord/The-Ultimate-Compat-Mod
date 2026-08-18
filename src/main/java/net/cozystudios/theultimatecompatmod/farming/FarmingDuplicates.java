@@ -23,5 +23,10 @@ public final class FarmingDuplicates {
         HiddenItemRegistry.put("farm_and_charm:bacon_with_eggs", "farmersdelight:bacon_and_eggs");
 
         HiddenItemRegistry.put("candlelight:dough",              "farmersdelight:wheat_dough");
+
+        HiddenItemRegistry.put("alcocraftplus:hop",              "brewery:hops");
+        HiddenItemRegistry.put("alcocraftplus:hop_seeds",        "brewery:hops_seeds");
+        HiddenItemRegistry.put("clutter:hops",                   "brewery:hops");
+        HiddenItemRegistry.put("clutter:hops_seeds",             "brewery:hops_seeds");
     }
 }

@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:redwood_pressure_plate" },
+  "result": { "item": "natures_spirit:redwood_pressure_plate", "count": 1 }
+}

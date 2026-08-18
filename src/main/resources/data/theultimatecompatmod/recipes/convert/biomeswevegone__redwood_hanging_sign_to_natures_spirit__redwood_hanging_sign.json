@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:redwood_hanging_sign" },
+  "result": { "item": "natures_spirit:redwood_hanging_sign", "count": 1 }
+}

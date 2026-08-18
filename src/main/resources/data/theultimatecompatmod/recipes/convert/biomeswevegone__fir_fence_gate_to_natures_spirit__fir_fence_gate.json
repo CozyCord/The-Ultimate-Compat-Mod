@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:fir_fence_gate" },
+  "result": { "item": "natures_spirit:fir_fence_gate", "count": 1 }
+}

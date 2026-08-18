@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "meadow:pine_fence_gate" },
+  "result": { "item": "regions_unexplored:pine_fence_gate", "count": 1 }
+}

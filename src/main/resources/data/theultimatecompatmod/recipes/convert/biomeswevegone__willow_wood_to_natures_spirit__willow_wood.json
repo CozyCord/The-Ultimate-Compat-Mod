@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:willow_wood" },
+  "result": { "item": "natures_spirit:willow_wood", "count": 1 }
+}

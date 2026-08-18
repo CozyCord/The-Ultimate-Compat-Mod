@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:palm_sign" },
+  "result": { "item": "biomeswevegone:palm_sign", "count": 1 }
+}

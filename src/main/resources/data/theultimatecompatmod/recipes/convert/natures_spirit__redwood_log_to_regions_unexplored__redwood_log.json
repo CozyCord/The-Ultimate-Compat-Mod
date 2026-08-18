@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:redwood_log" },
+  "result": { "item": "regions_unexplored:redwood_log", "count": 1 }
+}

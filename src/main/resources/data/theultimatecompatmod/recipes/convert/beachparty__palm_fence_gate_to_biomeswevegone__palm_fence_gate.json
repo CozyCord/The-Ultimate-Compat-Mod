@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "beachparty:palm_fence_gate" },
+  "result": { "item": "biomeswevegone:palm_fence_gate", "count": 1 }
+}

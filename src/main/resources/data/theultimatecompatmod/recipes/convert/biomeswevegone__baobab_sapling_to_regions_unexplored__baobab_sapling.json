@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:baobab_sapling" },
+  "result": { "item": "regions_unexplored:baobab_sapling", "count": 1 }
+}

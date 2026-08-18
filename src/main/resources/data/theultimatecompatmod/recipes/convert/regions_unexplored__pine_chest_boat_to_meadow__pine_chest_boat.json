@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:pine_chest_boat" },
+  "result": { "item": "meadow:pine_chest_boat", "count": 1 }
+}

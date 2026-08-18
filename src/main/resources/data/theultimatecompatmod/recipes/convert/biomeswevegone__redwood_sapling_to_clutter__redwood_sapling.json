@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:redwood_sapling" },
+  "result": { "item": "clutter:redwood_sapling", "count": 1 }
+}

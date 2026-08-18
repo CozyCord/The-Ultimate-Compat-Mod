@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:willow_fence" },
+  "result": { "item": "biomeswevegone:willow_fence", "count": 1 }
+}

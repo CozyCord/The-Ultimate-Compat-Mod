@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "meadow:pine_hanging_sign" },
+  "result": { "item": "regions_unexplored:pine_hanging_sign", "count": 1 }
+}

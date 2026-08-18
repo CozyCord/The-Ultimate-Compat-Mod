@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:willow_chest_boat" },
+  "result": { "item": "regions_unexplored:willow_chest_boat", "count": 1 }
+}

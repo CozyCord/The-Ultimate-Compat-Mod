@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:redwood_slab" },
+  "result": { "item": "biomeswevegone:redwood_slab", "count": 1 }
+}

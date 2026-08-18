@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:pine_log" },
+  "result": { "item": "meadow:pine_log", "count": 1 }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PSP",
+    "STS",
+    "PSP"
+  ],
+  "key": {
+    "P": { "tag": "minecraft:planks" },
+    "S": { "item": "minecraft:stick" },
+    "T": { "item": "minecraft:crafting_table" }
+  },
+  "result": {
+    "item": "theultimatecompatmod:compat_workbench",
+    "count": 1
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:redwood_fence" },
+  "result": { "item": "regions_unexplored:redwood_fence", "count": 1 }
+}

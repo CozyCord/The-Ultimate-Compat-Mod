@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:cypress_wood" },
+  "result": { "item": "biomeswevegone:cypress_wood", "count": 1 }
+}

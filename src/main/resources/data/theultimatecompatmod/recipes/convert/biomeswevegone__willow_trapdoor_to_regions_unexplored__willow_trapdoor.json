@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:willow_trapdoor" },
+  "result": { "item": "regions_unexplored:willow_trapdoor", "count": 1 }
+}

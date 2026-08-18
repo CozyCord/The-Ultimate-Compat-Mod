@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
+    { "id": "alcocraftplus:hop", "required": false },
+    { "id": "alcocraftplus:hop_seeds", "required": false },
     { "id": "beachparty:palm_boat", "required": false },
     { "id": "beachparty:palm_button", "required": false },
     { "id": "beachparty:palm_chest_boat", "required": false },
@@ -59,6 +61,8 @@
     { "id": "biomeswevegone:stripped_pine_log", "required": false },
     { "id": "biomeswevegone:stripped_pine_wood", "required": false },
     { "id": "candlelight:dough", "required": false },
+    { "id": "clutter:hops", "required": false },
+    { "id": "clutter:hops_seeds", "required": false },
     { "id": "clutter:redwood_boat", "required": false },
     { "id": "clutter:redwood_button", "required": false },
     { "id": "clutter:redwood_chest_boat", "required": false },

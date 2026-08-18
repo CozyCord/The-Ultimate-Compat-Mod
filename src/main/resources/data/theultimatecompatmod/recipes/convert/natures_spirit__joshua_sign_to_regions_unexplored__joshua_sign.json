@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:joshua_sign" },
+  "result": { "item": "regions_unexplored:joshua_sign", "count": 1 }
+}

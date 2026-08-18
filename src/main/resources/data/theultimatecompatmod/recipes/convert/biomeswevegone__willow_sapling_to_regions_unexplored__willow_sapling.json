@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:willow_sapling" },
+  "result": { "item": "regions_unexplored:willow_sapling", "count": 1 }
+}

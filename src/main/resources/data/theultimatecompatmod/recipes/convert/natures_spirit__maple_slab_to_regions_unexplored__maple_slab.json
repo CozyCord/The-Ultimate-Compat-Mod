@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:maple_slab" },
+  "result": { "item": "regions_unexplored:maple_slab", "count": 1 }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:joshua_stairs" },
+  "result": { "item": "natures_spirit:joshua_stairs", "count": 1 }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:maple_fence_gate" },
+  "result": { "item": "regions_unexplored:maple_fence_gate", "count": 1 }
+}

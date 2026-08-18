@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:pine_fence" },
+  "result": { "item": "biomeswevegone:pine_fence", "count": 1 }
+}

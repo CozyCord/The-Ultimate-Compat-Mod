@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:fir_hanging_sign" },
+  "result": { "item": "biomeswevegone:fir_hanging_sign", "count": 1 }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:redwood_fence" },
+  "result": { "item": "regions_unexplored:redwood_fence", "count": 1 }
+}

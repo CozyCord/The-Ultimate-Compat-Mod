@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:maple_trapdoor" },
+  "result": { "item": "regions_unexplored:maple_trapdoor", "count": 1 }
+}

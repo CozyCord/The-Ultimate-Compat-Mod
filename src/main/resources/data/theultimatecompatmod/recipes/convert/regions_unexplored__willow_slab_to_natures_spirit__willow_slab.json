@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:willow_slab" },
+  "result": { "item": "natures_spirit:willow_slab", "count": 1 }
+}

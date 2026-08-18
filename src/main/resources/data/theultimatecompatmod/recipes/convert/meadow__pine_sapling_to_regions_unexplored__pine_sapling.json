@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "meadow:pine_sapling" },
+  "result": { "item": "regions_unexplored:pine_sapling", "count": 1 }
+}

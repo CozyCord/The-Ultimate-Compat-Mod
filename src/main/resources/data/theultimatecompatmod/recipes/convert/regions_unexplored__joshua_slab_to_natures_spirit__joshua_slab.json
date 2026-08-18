@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:joshua_slab" },
+  "result": { "item": "natures_spirit:joshua_slab", "count": 1 }
+}

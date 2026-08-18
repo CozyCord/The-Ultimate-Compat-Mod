@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:baobab_planks" },
+  "result": { "item": "regions_unexplored:baobab_planks", "count": 1 }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:cypress_slab" },
+  "result": { "item": "biomeswevegone:cypress_slab", "count": 1 }
+}

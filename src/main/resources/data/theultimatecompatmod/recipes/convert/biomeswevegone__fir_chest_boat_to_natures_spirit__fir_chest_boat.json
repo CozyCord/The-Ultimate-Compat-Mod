@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:fir_chest_boat" },
+  "result": { "item": "natures_spirit:fir_chest_boat", "count": 1 }
+}

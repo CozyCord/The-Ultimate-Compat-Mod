@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:mahogany_trapdoor" },
+  "result": { "item": "biomeswevegone:mahogany_trapdoor", "count": 1 }
+}

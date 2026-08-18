@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:cypress_planks" },
+  "result": { "item": "natures_spirit:cypress_planks", "count": 1 }
+}

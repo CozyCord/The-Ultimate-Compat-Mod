@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:willow_hanging_sign" },
+  "result": { "item": "biomeswevegone:willow_hanging_sign", "count": 1 }
+}

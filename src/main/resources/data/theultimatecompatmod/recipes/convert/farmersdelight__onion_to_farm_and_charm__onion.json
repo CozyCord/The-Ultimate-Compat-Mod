@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "farmersdelight:onion" },
+  "result": { "item": "farm_and_charm:onion", "count": 1 }
+}

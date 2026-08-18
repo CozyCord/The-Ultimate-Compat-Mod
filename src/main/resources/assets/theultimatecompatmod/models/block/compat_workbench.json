@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "theultimatecompatmod:block/compat_workbench_side",
+    "down":     "theultimatecompatmod:block/compat_workbench_bottom",
+    "up":       "theultimatecompatmod:block/compat_workbench_top",
+    "north":    "theultimatecompatmod:block/compat_workbench_front",
+    "east":     "theultimatecompatmod:block/compat_workbench_side",
+    "south":    "theultimatecompatmod:block/compat_workbench_side",
+    "west":     "theultimatecompatmod:block/compat_workbench_side"
+  }
+}

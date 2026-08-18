@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:stripped_willow_wood" },
+  "result": { "item": "regions_unexplored:stripped_willow_wood", "count": 1 }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:redwood_button" },
+  "result": { "item": "regions_unexplored:redwood_button", "count": 1 }
+}

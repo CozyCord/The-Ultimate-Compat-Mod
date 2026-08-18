@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:cypress_boat" },
+  "result": { "item": "natures_spirit:cypress_boat", "count": 1 }
+}

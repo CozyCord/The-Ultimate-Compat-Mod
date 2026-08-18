@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "clutter:redwood_log" },
+  "result": { "item": "natures_spirit:redwood_log", "count": 1 }
+}

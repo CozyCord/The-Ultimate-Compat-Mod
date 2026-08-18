@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:fir_leaves" },
+  "result": { "item": "biomeswevegone:fir_leaves", "count": 1 }
+}

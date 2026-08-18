@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:palo_verde_leaves" },
+  "result": { "item": "natures_spirit:palo_verde_leaves", "count": 1 }
+}

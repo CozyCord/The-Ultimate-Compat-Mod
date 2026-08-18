@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:mahogany_hanging_sign" },
+  "result": { "item": "natures_spirit:mahogany_hanging_sign", "count": 1 }
+}

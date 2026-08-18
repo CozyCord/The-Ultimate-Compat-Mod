@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:palm_pressure_plate" },
+  "result": { "item": "beachparty:palm_pressure_plate", "count": 1 }
+}

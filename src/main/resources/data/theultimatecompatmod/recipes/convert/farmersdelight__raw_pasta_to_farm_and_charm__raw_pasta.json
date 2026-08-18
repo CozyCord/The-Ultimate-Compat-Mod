@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "farmersdelight:raw_pasta" },
+  "result": { "item": "farm_and_charm:raw_pasta", "count": 1 }
+}

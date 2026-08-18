@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:cypress_sapling" },
+  "result": { "item": "biomeswevegone:cypress_sapling", "count": 1 }
+}

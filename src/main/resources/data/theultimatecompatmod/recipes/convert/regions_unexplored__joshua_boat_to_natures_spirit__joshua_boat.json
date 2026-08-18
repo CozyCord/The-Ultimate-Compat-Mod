@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:joshua_boat" },
+  "result": { "item": "natures_spirit:joshua_boat", "count": 1 }
+}

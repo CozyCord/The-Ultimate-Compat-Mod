@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:joshua_hanging_sign" },
+  "result": { "item": "natures_spirit:joshua_hanging_sign", "count": 1 }
+}

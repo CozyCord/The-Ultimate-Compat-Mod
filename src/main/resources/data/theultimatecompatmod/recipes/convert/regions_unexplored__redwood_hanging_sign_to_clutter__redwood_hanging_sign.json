@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "regions_unexplored:redwood_hanging_sign" },
+  "result": { "item": "clutter:redwood_hanging_sign", "count": 1 }
+}

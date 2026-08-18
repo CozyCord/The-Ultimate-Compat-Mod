@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:mahogany_sapling" },
+  "result": { "item": "biomeswevegone:mahogany_sapling", "count": 1 }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "theultimatecompatmod:block/compat_workbench" },
+    "facing=east":  { "model": "theultimatecompatmod:block/compat_workbench", "y":  90 },
+    "facing=south": { "model": "theultimatecompatmod:block/compat_workbench", "y": 180 },
+    "facing=west":  { "model": "theultimatecompatmod:block/compat_workbench", "y": 270 }
+  }
+}

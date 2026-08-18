@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "clutter:redwood_leaves" },
+  "result": { "item": "regions_unexplored:redwood_leaves", "count": 1 }
+}

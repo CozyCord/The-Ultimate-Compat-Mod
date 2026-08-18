@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "biomeswevegone:stripped_redwood_wood" },
+  "result": { "item": "regions_unexplored:stripped_redwood_wood", "count": 1 }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "meadow:pine_slab" },
+  "result": { "item": "regions_unexplored:pine_slab", "count": 1 }
+}

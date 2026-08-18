@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:aspen_planks" },
+  "result": { "item": "biomeswevegone:aspen_planks", "count": 1 }
+}

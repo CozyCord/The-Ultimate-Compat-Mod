@@ -1,0 +1,5 @@
+{
+  "type": "theultimatecompatmod:convert",
+  "ingredient": { "item": "natures_spirit:cypress_trapdoor" },
+  "result": { "item": "regions_unexplored:cypress_trapdoor", "count": 1 }
+}
