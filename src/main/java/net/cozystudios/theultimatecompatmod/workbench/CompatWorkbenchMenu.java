@@ -1,5 +1,9 @@
 package net.cozystudios.theultimatecompatmod.workbench;
 
+import net.cozystudios.theultimatecompatmod.unlocks.Families;
+import net.cozystudios.theultimatecompatmod.unlocks.PlayerUnlocks;
+import net.cozystudios.theultimatecompatmod.unlocks.RecipeUnlockHelper;
+import net.cozystudios.theultimatecompatmod.unlocks.UnlockNetworking;
 import net.fabricmc.fabric.api.screenhandler.v1.ExtendedScreenHandlerType;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.entity.player.PlayerInventory;
@@ -8,18 +12,22 @@ import net.minecraft.inventory.Inventory;
 import net.minecraft.inventory.SimpleInventory;
 import net.minecraft.item.ItemStack;
 import net.minecraft.network.PacketByteBuf;
+import net.minecraft.registry.Registries;
 import net.minecraft.screen.ArrayPropertyDelegate;
 import net.minecraft.screen.PropertyDelegate;
 import net.minecraft.screen.ScreenHandler;
 import net.minecraft.screen.ScreenHandlerContext;
 import net.minecraft.screen.slot.Slot;
+import net.minecraft.server.network.ServerPlayerEntity;
 import net.minecraft.sound.SoundCategory;
 import net.minecraft.sound.SoundEvents;
+import net.minecraft.util.Identifier;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
 
 import java.util.Collections;
 import java.util.List;
+import java.util.Set;
 
 public class CompatWorkbenchMenu extends ScreenHandler {
 
@@ -66,7 +74,31 @@ public class CompatWorkbenchMenu extends ScreenHandler {
             @Override
             public void onTakeItem(PlayerEntity player, ItemStack stack) {
                 stack.onCraft(player.getWorld(), player, stack.getCount());
+
+                net.minecraft.recipe.Recipe<?> savedRecipe = CompatWorkbenchMenu.this.output.getLastRecipe();
+
                 CompatWorkbenchMenu.this.output.unlockLastRecipe(player, List.of(CompatWorkbenchMenu.this.inputSlot.getStack()));
+
+                if (player instanceof ServerPlayerEntity sp) {
+                    net.minecraft.item.Item outputItem = null;
+                    if (!stack.isEmpty()) {
+                        outputItem = stack.getItem();
+                    } else if (savedRecipe instanceof CompatConvertRecipe convert) {
+                        outputItem = convert.getResult().getItem();
+                    }
+                    if (outputItem != null && outputItem != net.minecraft.item.Items.AIR) {
+                        Identifier itemId = Registries.ITEM.getId(outputItem);
+                        Set<Identifier> family = Families.getFamily(itemId);
+                        if (!family.isEmpty()) {
+                            Set<Identifier> newlyAdded = PlayerUnlocks.unlockAll(sp, family);
+                            if (!newlyAdded.isEmpty()) {
+                                UnlockNetworking.sendDelta(sp, newlyAdded);
+                                RecipeUnlockHelper.unlockRecipesFor(sp, newlyAdded);
+                            }
+                        }
+                    }
+                }
+
                 ItemStack in = CompatWorkbenchMenu.this.inputSlot.takeStack(1);
                 if (!in.isEmpty()) {
                     CompatWorkbenchMenu.this.populateResult();
