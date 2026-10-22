@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "natures_spirit:larch_door", "required": false },
+    { "id": "regions_unexplored:larch_door", "required": false }
+  ]
+}

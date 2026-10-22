@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "meadow:pine_stairs", "required": false },
+    { "id": "biomeswevegone:pine_stairs", "required": false },
+    { "id": "regions_unexplored:pine_stairs", "required": false }
+  ]
+}

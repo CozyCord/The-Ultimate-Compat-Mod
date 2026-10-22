@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:cypress_sapling", "required": false },
+    { "id": "natures_spirit:cypress_sapling", "required": false },
+    { "id": "regions_unexplored:cypress_sapling", "required": false }
+  ]
+}

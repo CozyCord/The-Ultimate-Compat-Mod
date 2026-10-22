@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "010",
-    "121",
-    "010"
-  ],
-  "key": {
-    "0": {
-      "tag": "minecraft:wooden_slabs"
-    },
-    "1": {
-      "item": "minecraft:iron_ingot"
-    },
-    "2": {
-      "item": "brewery:hops"
-    }
-  },
-  "result": {
-    "item": "alcocraftplus:keg",
-    "count": 1
-  }
+    "type":  "minecraft:crafting_shaped",
+    "pattern":  [
+                    "010",
+                    "121",
+                    "010"
+                ],
+    "key":  {
+                "0":  {
+                          "tag":  "minecraft:wooden_slabs"
+                      },
+                "1":  {
+                          "item":  "minecraft:iron_ingot"
+                      },
+                "2":  {
+                          "tag":  "theultimatecompatmod:farming/hops"
+                      }
+            },
+    "result":  {
+                   "item":  "alcocraftplus:keg",
+                   "count":  1
+               }
 }

@@ -1,20 +1,20 @@
 {
-  "type": "farm_and_charm:stove",
-  "ingredients": [
-    {
-      "item": "candlelight:harvest_plate"
-    },
-    {
-      "item": "farmersdelight:chicken_cuts"
-    },
-    {
-      "tag": "candlelight:white_effect"
-    }
-  ],
-  "result": {
-    "item": "candlelight:chicken_with_vegetables",
-    "count": 2
-  },
-  "experience": 0.3,
-  "requiresLearning": false
+    "type":  "farm_and_charm:stove",
+    "ingredients":  [
+                        {
+                            "item":  "candlelight:harvest_plate"
+                        },
+                        {
+                            "tag":  "theultimatecompatmod:farming/chicken_cuts"
+                        },
+                        {
+                            "tag":  "candlelight:white_effect"
+                        }
+                    ],
+    "result":  {
+                   "item":  "candlelight:chicken_with_vegetables",
+                   "count":  2
+               },
+    "experience":  0.3,
+    "requiresLearning":  false
 }

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:redwood_trapdoor", "required": false },
+    { "id": "clutter:redwood_trapdoor", "required": false },
+    { "id": "natures_spirit:redwood_trapdoor", "required": false },
+    { "id": "regions_unexplored:redwood_trapdoor", "required": false }
+  ]
+}

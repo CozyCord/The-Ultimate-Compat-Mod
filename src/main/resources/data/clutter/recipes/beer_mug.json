@@ -1,21 +1,20 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    {
-      "item": "brewery:hops"
-    },
-    {
-      "item": "minecraft:wheat"
-    },
-    {
-      "item": "minecraft:water_bucket"
-    },
-    {
-      "item": "clutter:wooden_mug"
-    }
-  ],
-  "result": {
-    "item": "clutter:beer_mug"
-  }
+    "type":  "minecraft:crafting_shapeless",
+    "ingredients":  [
+                        {
+                            "tag":  "theultimatecompatmod:farming/hops"
+                        },
+                        {
+                            "item":  "minecraft:wheat"
+                        },
+                        {
+                            "item":  "minecraft:water_bucket"
+                        },
+                        {
+                            "item":  "clutter:wooden_mug"
+                        }
+                    ],
+    "result":  {
+                   "item":  "clutter:beer_mug"
+               }
 }
-

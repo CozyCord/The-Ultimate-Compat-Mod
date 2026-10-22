@@ -1,0 +1,19 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "category":  "building",
+    "group":  "bark",
+    "key":  {
+                "#":  {
+                          "tag":  "theultimatecompatmod:wood/cypress/logs"
+                      }
+            },
+    "pattern":  [
+                    "##",
+                    "##"
+                ],
+    "result":  {
+                   "count":  3,
+                   "item":  "regions_unexplored:stripped_cypress_wood"
+               },
+    "show_notification":  true
+}

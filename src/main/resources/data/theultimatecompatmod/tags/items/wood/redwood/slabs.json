@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:redwood_slab", "required": false },
+    { "id": "clutter:redwood_slab", "required": false },
+    { "id": "natures_spirit:redwood_slab", "required": false },
+    { "id": "regions_unexplored:redwood_slab", "required": false }
+  ]
+}

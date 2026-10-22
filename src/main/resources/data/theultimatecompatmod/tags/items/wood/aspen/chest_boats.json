@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:aspen_chest_boat", "required": false },
+    { "id": "natures_spirit:aspen_chest_boat", "required": false }
+  ]
+}

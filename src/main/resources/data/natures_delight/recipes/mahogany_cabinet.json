@@ -1,21 +1,21 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "key": {
-    "D": {
-      "item": "biomeswevegone:mahogany_trapdoor"
-    },
-    "_": {
-      "item": "biomeswevegone:mahogany_slab"
-    }
-  },
-  "pattern": [
-    "___",
-    "D D",
-    "___"
-  ],
-  "result": {
-    "item": "natures_delight:mahogany_cabinet"
-  },
-  "show_notification": true
+    "type":  "minecraft:crafting_shaped",
+    "category":  "misc",
+    "key":  {
+                "D":  {
+                          "tag":  "theultimatecompatmod:wood/mahogany/trapdoors"
+                      },
+                "_":  {
+                          "tag":  "theultimatecompatmod:wood/mahogany/slabs"
+                      }
+            },
+    "pattern":  [
+                    "___",
+                    "D D",
+                    "___"
+                ],
+    "result":  {
+                   "item":  "natures_delight:mahogany_cabinet"
+               },
+    "show_notification":  true
 }

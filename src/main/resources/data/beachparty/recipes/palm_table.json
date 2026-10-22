@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "SSS",
-    "X X",
-    "B B"
-  ],
-  "key": {
-    "S": {
-      "item": "biomeswevegone:palm_slab"
-    },
-    "X": {
-      "item": "biomeswevegone:palm_planks"
-    },
-    "B": {
-      "item": "minecraft:stick"
-    }
-  },
-  "result": {
-    "item": "beachparty:palm_table",
-    "count": 2
-  }
+    "type":  "minecraft:crafting_shaped",
+    "pattern":  [
+                    "SSS",
+                    "X X",
+                    "B B"
+                ],
+    "key":  {
+                "S":  {
+                          "tag":  "theultimatecompatmod:wood/palm/slabs"
+                      },
+                "X":  {
+                          "tag":  "theultimatecompatmod:wood/palm/planks"
+                      },
+                "B":  {
+                          "item":  "minecraft:stick"
+                      }
+            },
+    "result":  {
+                   "item":  "beachparty:palm_table",
+                   "count":  2
+               }
 }

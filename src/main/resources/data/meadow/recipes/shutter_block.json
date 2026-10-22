@@ -1,0 +1,17 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "pattern":  [
+                    "-- ",
+                    "-- ",
+                    "-- "
+                ],
+    "key":  {
+                "-":  {
+                          "tag":  "theultimatecompatmod:wood/pine/slabs"
+                      }
+            },
+    "result":  {
+                   "item":  "meadow:shutter_block",
+                   "count":  3
+               }
+}

@@ -1,6 +1,7 @@
 package net.cozystudios.theultimatecompatmod;
 
 import net.cozystudios.theultimatecompatmod.farming.FarmingDuplicates;
+import net.cozystudios.theultimatecompatmod.placed.PlacedLoserRegistry;
 import net.cozystudios.theultimatecompatmod.unlocks.Families;
 import net.cozystudios.theultimatecompatmod.unlocks.PlayerUnlocks;
 import net.cozystudios.theultimatecompatmod.unlocks.UnlockNetworking;
@@ -26,6 +27,7 @@ public class TheUltimateCompatMod implements ModInitializer {
                 HiddenItemRegistry.map().size());
         CreativeTabHandler.register();
         ModRegistry.register();
+        PlacedLoserRegistry.register();
 
         ServerPlayConnectionEvents.JOIN.register((handler, sender, server) ->
                 UnlockNetworking.sendFullSync(handler.player));

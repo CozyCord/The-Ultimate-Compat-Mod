@@ -1,0 +1,22 @@
+{
+    "type":  "create:cutting",
+    "ingredients":  [
+                        {
+                            "tag":  "theultimatecompatmod:wood/larch/logs"
+                        }
+                    ],
+    "results":  [
+                    {
+                        "item":  "regions_unexplored:stripped_larch_wood"
+                    }
+                ],
+    "processingTime":  50,
+    "fabric:load_conditions":  [
+                                   {
+                                       "condition":  "fabric:all_mods_loaded",
+                                       "values":  [
+                                                      "create"
+                                                  ]
+                                   }
+                               ]
+}

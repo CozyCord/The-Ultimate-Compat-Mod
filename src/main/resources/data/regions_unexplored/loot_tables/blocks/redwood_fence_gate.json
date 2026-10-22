@@ -1,9 +1,22 @@
 {
   "type": "minecraft:block",
-  "pools": [
-    {
+  "pools": [{
       "bonus_rolls": 0.0,
-      "conditions": [
+      "conditions": [{"condition":"theultimatecompatmod:is_player_placed_loser"},
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "regions_unexplored:redwood_fence_gate"
+        }
+      ],
+      "rolls": 1.0
+    },{
+      "bonus_rolls": 0.0,
+      "conditions": [{"condition":"minecraft:inverted","term":{"condition":"theultimatecompatmod:is_player_placed_loser"}},
         {
           "condition": "minecraft:survives_explosion"
         }
@@ -15,6 +28,5 @@
         }
       ],
       "rolls": 1.0
-    }
-  ]
+    }]
 }

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "natures_spirit:larch_planks", "required": false },
+    { "id": "regions_unexplored:larch_planks", "required": false }
+  ]
+}

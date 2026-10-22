@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:mahogany_fence_gate", "required": false },
+    { "id": "natures_spirit:mahogany_fence_gate", "required": false }
+  ]
+}

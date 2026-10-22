@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "farmersdelight:dog_food", "required": false },
+    { "id": "farm_and_charm:dog_food", "required": false }
+  ]
+}

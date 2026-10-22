@@ -1,0 +1,16 @@
+{
+    "type":  "minecraft:crafting_shapeless",
+    "category":  "misc",
+    "group":  "fd_cabbage",
+    "ingredients":  [
+                        {
+                            "tag":  "theultimatecompatmod:farming/cabbage"
+                        },
+                        {
+                            "tag":  "theultimatecompatmod:farming/cabbage"
+                        }
+                    ],
+    "result":  {
+                   "item":  "farmersdelight:cabbage"
+               }
+}

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:fir_door", "required": false },
+    { "id": "natures_spirit:fir_door", "required": false }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+    "type":  "farmersdelight:cutting",
+    "ingredients":  [
+                        {
+                            "tag":  "theultimatecompatmod:farming/cabbage"
+                        }
+                    ],
+    "result":  [
+                   {
+                       "count":  2,
+                       "item":  "farmersdelight:cabbage_leaf"
+                   }
+               ],
+    "tool":  {
+                 "tag":  "c:tools/knives"
+             }
+}

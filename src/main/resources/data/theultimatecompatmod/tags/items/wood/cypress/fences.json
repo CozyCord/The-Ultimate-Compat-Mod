@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:cypress_fence", "required": false },
+    { "id": "natures_spirit:cypress_fence", "required": false },
+    { "id": "regions_unexplored:cypress_fence", "required": false }
+  ]
+}

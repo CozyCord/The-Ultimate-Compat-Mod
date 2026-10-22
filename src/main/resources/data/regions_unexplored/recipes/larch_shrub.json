@@ -1,18 +1,18 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "group": "shrubs",
-  "key": {
-    "#": {
-      "item": "natures_spirit:larch_sapling"
-    }
-  },
-  "pattern": [
-    "#",
-    "#"
-  ],
-  "result": {
-    "item": "regions_unexplored:larch_shrub"
-  },
-  "show_notification": true
+    "type":  "minecraft:crafting_shaped",
+    "category":  "misc",
+    "group":  "shrubs",
+    "key":  {
+                "#":  {
+                          "tag":  "theultimatecompatmod:wood/larch/saplings"
+                      }
+            },
+    "pattern":  [
+                    "#",
+                    "#"
+                ],
+    "result":  {
+                   "item":  "regions_unexplored:larch_shrub"
+               },
+    "show_notification":  true
 }

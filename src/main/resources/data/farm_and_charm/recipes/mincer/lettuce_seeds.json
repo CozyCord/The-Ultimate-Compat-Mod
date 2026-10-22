@@ -1,11 +1,11 @@
 {
-  "type": "farm_and_charm:mincer",
-  "ingredient": {
-    "tag": "c:crops/cabbage"
-  },
-  "recipe_type": "MEAT",
-  "result": {
-    "item": "farmersdelight:cabbage_seeds",
-    "count": 4
-  }
+    "type":  "farm_and_charm:mincer",
+    "ingredient":  {
+                       "tag":  "theultimatecompatmod:farming/cabbage"
+                   },
+    "recipe_type":  "MEAT",
+    "result":  {
+                   "item":  "farm_and_charm:lettuce_seeds",
+                   "count":  4
+               }
 }

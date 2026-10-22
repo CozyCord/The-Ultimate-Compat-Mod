@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "brewery:hops", "required": false },
+    { "id": "alcocraftplus:hop", "required": false },
+    { "id": "clutter:hops", "required": false }
+  ]
+}

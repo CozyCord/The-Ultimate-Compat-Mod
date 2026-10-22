@@ -1,0 +1,20 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "category":  "building",
+    "group":  "wooden_stairs",
+    "key":  {
+                "#":  {
+                          "tag":  "theultimatecompatmod:wood/cypress/planks"
+                      }
+            },
+    "pattern":  [
+                    "#  ",
+                    "## ",
+                    "###"
+                ],
+    "result":  {
+                   "count":  4,
+                   "item":  "natures_spirit:cypress_stairs"
+               },
+    "show_notification":  true
+}

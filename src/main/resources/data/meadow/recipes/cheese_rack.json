@@ -1,0 +1,20 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "pattern":  [
+                    "B B",
+                    "###",
+                    "B B"
+                ],
+    "key":  {
+                "B":  {
+                          "tag":  "theultimatecompatmod:wood/pine/planks"
+                      },
+                "#":  {
+                          "tag":  "theultimatecompatmod:wood/pine/slabs"
+                      }
+            },
+    "result":  {
+                   "item":  "meadow:cheese_rack",
+                   "count":  2
+               }
+}

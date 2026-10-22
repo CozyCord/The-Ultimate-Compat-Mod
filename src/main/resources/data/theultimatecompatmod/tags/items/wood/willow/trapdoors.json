@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:willow_trapdoor", "required": false },
+    { "id": "natures_spirit:willow_trapdoor", "required": false },
+    { "id": "regions_unexplored:willow_trapdoor", "required": false }
+  ]
+}

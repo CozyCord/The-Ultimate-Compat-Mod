@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:redwood_hanging_sign", "required": false },
+    { "id": "clutter:redwood_hanging_sign", "required": false },
+    { "id": "natures_spirit:redwood_hanging_sign", "required": false },
+    { "id": "regions_unexplored:redwood_hanging_sign", "required": false }
+  ]
+}

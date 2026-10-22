@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:redwood_door", "required": false },
+    { "id": "clutter:redwood_door", "required": false },
+    { "id": "natures_spirit:redwood_door", "required": false },
+    { "id": "regions_unexplored:redwood_door", "required": false }
+  ]
+}

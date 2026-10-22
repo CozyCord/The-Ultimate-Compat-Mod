@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:fir_hanging_sign", "required": false },
+    { "id": "natures_spirit:fir_hanging_sign", "required": false }
+  ]
+}

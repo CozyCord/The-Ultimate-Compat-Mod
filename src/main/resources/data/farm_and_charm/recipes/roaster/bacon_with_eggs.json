@@ -1,28 +1,28 @@
 {
-  "type": "farm_and_charm:roaster",
-  "ingredients": [
-    {
-      "item": "farmersdelight:bacon"
-    },
-    {
-      "item": "farmersdelight:bacon"
-    },
-    {
-      "item": "minecraft:egg"
-    },
-    {
-      "item": "minecraft:egg"
-    },
-    {
-      "tag": "farm_and_charm:butter"
-    }
-  ],
-  "container": {
-    "item": "minecraft:bowl"
-  },
-  "result": {
-    "item": "farmersdelight:bacon_and_eggs",
-    "count": 3
-  },
-  "requiresLearning": false
+    "type":  "farm_and_charm:roaster",
+    "ingredients":  [
+                        {
+                            "tag":  "theultimatecompatmod:farming/bacon"
+                        },
+                        {
+                            "tag":  "theultimatecompatmod:farming/bacon"
+                        },
+                        {
+                            "item":  "minecraft:egg"
+                        },
+                        {
+                            "item":  "minecraft:egg"
+                        },
+                        {
+                            "tag":  "farm_and_charm:butter"
+                        }
+                    ],
+    "container":  {
+                      "item":  "minecraft:bowl"
+                  },
+    "result":  {
+                   "item":  "farm_and_charm:bacon_with_eggs",
+                   "count":  3
+               },
+    "requiresLearning":  false
 }

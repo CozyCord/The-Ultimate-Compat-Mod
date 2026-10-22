@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:palm_trapdoor", "required": false },
+    { "id": "regions_unexplored:palm_trapdoor", "required": false },
+    { "id": "beachparty:palm_trapdoor", "required": false }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+    "type":  "minecraft:crafting_shapeless",
+    "category":  "misc",
+    "ingredients":  [
+                        [
+                            {
+                                "tag":  "theultimatecompatmod:farming/tomato"
+                            },
+                            {
+                                "tag":  "theultimatecompatmod:farming/rotten_tomato"
+                            }
+                        ]
+                    ],
+    "result":  {
+                   "item":  "farmersdelight:tomato_seeds"
+               }
+}

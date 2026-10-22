@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "natures_spirit:joshua_pressure_plate", "required": false },
+    { "id": "regions_unexplored:joshua_pressure_plate", "required": false }
+  ]
+}

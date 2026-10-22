@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:redwood_sapling", "required": false },
+    { "id": "clutter:redwood_sapling", "required": false },
+    { "id": "natures_spirit:redwood_sapling", "required": false },
+    { "id": "regions_unexplored:redwood_sapling", "required": false }
+  ]
+}

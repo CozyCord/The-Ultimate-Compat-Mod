@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:aspen_sign", "required": false },
+    { "id": "natures_spirit:aspen_sign", "required": false }
+  ]
+}

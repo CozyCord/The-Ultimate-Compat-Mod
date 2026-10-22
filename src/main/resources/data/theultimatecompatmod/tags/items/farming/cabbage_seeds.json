@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "farmersdelight:cabbage_seeds", "required": false },
+    { "id": "farm_and_charm:lettuce_seeds", "required": false }
+  ]
+}

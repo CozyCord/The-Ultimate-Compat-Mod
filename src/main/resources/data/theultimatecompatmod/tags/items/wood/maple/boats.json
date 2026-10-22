@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:maple_boat", "required": false },
+    { "id": "natures_spirit:maple_boat", "required": false },
+    { "id": "regions_unexplored:maple_boat", "required": false }
+  ]
+}

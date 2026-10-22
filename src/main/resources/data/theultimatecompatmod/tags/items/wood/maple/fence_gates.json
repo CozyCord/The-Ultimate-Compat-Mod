@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:maple_fence_gate", "required": false },
+    { "id": "natures_spirit:maple_fence_gate", "required": false },
+    { "id": "regions_unexplored:maple_fence_gate", "required": false }
+  ]
+}

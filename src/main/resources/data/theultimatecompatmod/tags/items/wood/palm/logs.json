@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:palm_log", "required": false },
+    { "id": "biomeswevegone:palm_wood", "required": false },
+    { "id": "biomeswevegone:stripped_palm_log", "required": false },
+    { "id": "biomeswevegone:stripped_palm_wood", "required": false },
+    { "id": "regions_unexplored:palm_log", "required": false },
+    { "id": "regions_unexplored:palm_wood", "required": false },
+    { "id": "regions_unexplored:stripped_palm_log", "required": false },
+    { "id": "regions_unexplored:stripped_palm_wood", "required": false },
+    { "id": "beachparty:palm_log", "required": false },
+    { "id": "beachparty:palm_wood", "required": false },
+    { "id": "beachparty:stripped_palm_log", "required": false },
+    { "id": "beachparty:stripped_palm_wood", "required": false }
+  ]
+}

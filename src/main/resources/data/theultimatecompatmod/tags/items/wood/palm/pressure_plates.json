@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:palm_pressure_plate", "required": false },
+    { "id": "regions_unexplored:palm_pressure_plate", "required": false },
+    { "id": "beachparty:palm_pressure_plate", "required": false }
+  ]
+}

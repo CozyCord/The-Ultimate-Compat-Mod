@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:maple_log", "required": false },
+    { "id": "biomeswevegone:maple_wood", "required": false },
+    { "id": "biomeswevegone:stripped_maple_log", "required": false },
+    { "id": "biomeswevegone:stripped_maple_wood", "required": false },
+    { "id": "natures_spirit:maple_log", "required": false },
+    { "id": "natures_spirit:maple_wood", "required": false },
+    { "id": "natures_spirit:stripped_maple_log", "required": false },
+    { "id": "natures_spirit:stripped_maple_wood", "required": false },
+    { "id": "regions_unexplored:maple_log", "required": false },
+    { "id": "regions_unexplored:maple_wood", "required": false },
+    { "id": "regions_unexplored:stripped_maple_log", "required": false },
+    { "id": "regions_unexplored:stripped_maple_wood", "required": false }
+  ]
+}

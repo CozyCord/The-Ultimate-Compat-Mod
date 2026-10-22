@@ -1,18 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    {
-      "tag": "farm_and_charm:bread"
-    },
-    {
-      "item": "farmersdelight:bacon_and_eggs"
-    },
-    {
-      "item": "farm_and_charm:roasted_corn"
-    }
-  ],
-  "result": {
-    "item": "farm_and_charm:farmers_breakfast",
-    "count": 1
-  }
+    "type":  "minecraft:crafting_shapeless",
+    "ingredients":  [
+                        {
+                            "tag":  "farm_and_charm:bread"
+                        },
+                        {
+                            "tag":  "theultimatecompatmod:farming/bacon_and_eggs"
+                        },
+                        {
+                            "item":  "farm_and_charm:roasted_corn"
+                        }
+                    ],
+    "result":  {
+                   "item":  "farm_and_charm:farmers_breakfast",
+                   "count":  1
+               }
 }

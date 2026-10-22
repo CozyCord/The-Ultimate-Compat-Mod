@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:baobab_pressure_plate", "required": false },
+    { "id": "regions_unexplored:baobab_pressure_plate", "required": false }
+  ]
+}

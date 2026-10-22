@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "farmersdelight:chicken_cuts", "required": false },
+    { "id": "farm_and_charm:chicken_parts", "required": false }
+  ]
+}

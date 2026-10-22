@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "farmersdelight:wheat_dough", "required": false },
+    { "id": "farm_and_charm:dough", "required": false },
+    { "id": "candlelight:dough", "required": false }
+  ]
+}

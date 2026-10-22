@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:baobab_leaves", "required": false },
+    { "id": "regions_unexplored:baobab_leaves", "required": false }
+  ]
+}

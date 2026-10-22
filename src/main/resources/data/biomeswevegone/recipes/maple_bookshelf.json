@@ -1,0 +1,22 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "category":  "building",
+    "group":  "planks",
+    "key":  {
+                "#":  {
+                          "tag":  "theultimatecompatmod:wood/maple/planks"
+                      },
+                "X":  {
+                          "item":  "minecraft:book"
+                      }
+            },
+    "pattern":  [
+                    "###",
+                    "XXX",
+                    "###"
+                ],
+    "result":  {
+                   "item":  "biomeswevegone:maple_bookshelf"
+               },
+    "show_notification":  true
+}

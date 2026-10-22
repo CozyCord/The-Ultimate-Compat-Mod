@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:redwood_stairs", "required": false },
+    { "id": "clutter:redwood_stairs", "required": false },
+    { "id": "natures_spirit:redwood_stairs", "required": false },
+    { "id": "regions_unexplored:redwood_stairs", "required": false }
+  ]
+}

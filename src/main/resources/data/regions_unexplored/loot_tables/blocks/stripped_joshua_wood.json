@@ -1,9 +1,8 @@
 {
   "type": "minecraft:block",
-  "pools": [
-    {
+  "pools": [{
       "bonus_rolls": 0.0,
-      "conditions": [
+      "conditions": [{"condition":"theultimatecompatmod:is_player_placed_loser"},
         {
           "condition": "minecraft:survives_explosion"
         }
@@ -11,10 +10,23 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "natures_spirit:stripped_joshua_log"
+          "name": "regions_unexplored:stripped_joshua_wood"
         }
       ],
       "rolls": 1.0
-    }
-  ]
+    },{
+      "bonus_rolls": 0.0,
+      "conditions": [{"condition":"minecraft:inverted","term":{"condition":"theultimatecompatmod:is_player_placed_loser"}},
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "natures_spirit:stripped_joshua_wood"
+        }
+      ],
+      "rolls": 1.0
+    }]
 }

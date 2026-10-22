@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomeswevegone:palm_sapling", "required": false },
+    { "id": "regions_unexplored:palm_sapling", "required": false }
+  ]
+}
