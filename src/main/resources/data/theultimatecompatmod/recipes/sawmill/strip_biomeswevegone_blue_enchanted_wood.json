@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "biomeswevegone:blue_enchanted_wood"
+  },
+  "ingredient_count": 1,
+  "result": "biomeswevegone:stripped_blue_enchanted_wood",
+  "count": 1
+}

@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "deeperdarker:echo_wood"
+  },
+  "ingredient_count": 1,
+  "result": "deeperdarker:stripped_echo_wood",
+  "count": 1
+}

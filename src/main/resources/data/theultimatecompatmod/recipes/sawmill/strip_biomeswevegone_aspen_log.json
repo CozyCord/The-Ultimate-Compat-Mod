@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "biomeswevegone:aspen_log"
+  },
+  "ingredient_count": 1,
+  "result": "biomeswevegone:stripped_aspen_log",
+  "count": 1
+}

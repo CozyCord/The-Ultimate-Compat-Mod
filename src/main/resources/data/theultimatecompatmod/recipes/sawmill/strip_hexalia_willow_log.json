@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "hexalia:willow_log"
+  },
+  "ingredient_count": 1,
+  "result": "hexalia:stripped_willow_log",
+  "count": 1
+}

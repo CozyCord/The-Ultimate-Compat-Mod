@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "biomeswevegone:ironwood_wood"
+  },
+  "ingredient_count": 1,
+  "result": "biomeswevegone:stripped_ironwood_wood",
+  "count": 1
+}

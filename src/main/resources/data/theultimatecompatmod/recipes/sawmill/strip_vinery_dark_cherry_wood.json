@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "vinery:dark_cherry_wood"
+  },
+  "ingredient_count": 1,
+  "result": "vinery:stripped_dark_cherry_wood",
+  "count": 1
+}

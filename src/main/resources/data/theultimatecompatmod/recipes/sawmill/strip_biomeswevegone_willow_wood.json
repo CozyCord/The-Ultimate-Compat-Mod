@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "biomeswevegone:willow_wood"
+  },
+  "ingredient_count": 1,
+  "result": "biomeswevegone:stripped_willow_wood",
+  "count": 1
+}

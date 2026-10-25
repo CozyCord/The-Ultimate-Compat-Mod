@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "regions_unexplored:small_oak_log"
+  },
+  "ingredient_count": 1,
+  "result": "regions_unexplored:stripped_small_oak_log",
+  "count": 1
+}

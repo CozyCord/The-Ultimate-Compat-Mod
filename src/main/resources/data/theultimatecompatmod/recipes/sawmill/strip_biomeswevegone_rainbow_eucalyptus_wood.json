@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "biomeswevegone:rainbow_eucalyptus_wood"
+  },
+  "ingredient_count": 1,
+  "result": "biomeswevegone:stripped_rainbow_eucalyptus_wood",
+  "count": 1
+}

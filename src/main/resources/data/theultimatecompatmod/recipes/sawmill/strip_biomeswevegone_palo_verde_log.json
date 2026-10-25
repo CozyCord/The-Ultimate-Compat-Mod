@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "biomeswevegone:palo_verde_log"
+  },
+  "ingredient_count": 1,
+  "result": "biomeswevegone:stripped_palo_verde_log",
+  "count": 1
+}

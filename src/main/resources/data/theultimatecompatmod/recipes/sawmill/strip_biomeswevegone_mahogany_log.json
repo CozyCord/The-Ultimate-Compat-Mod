@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "biomeswevegone:mahogany_log"
+  },
+  "ingredient_count": 1,
+  "result": "biomeswevegone:stripped_mahogany_log",
+  "count": 1
+}

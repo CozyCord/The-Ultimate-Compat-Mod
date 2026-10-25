@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "deeperdarker:blooming_stem"
+  },
+  "ingredient_count": 1,
+  "result": "deeperdarker:stripped_blooming_stem",
+  "count": 1
+}

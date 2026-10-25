@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "biomeswevegone:witch_hazel_wood"
+  },
+  "ingredient_count": 1,
+  "result": "biomeswevegone:stripped_witch_hazel_wood",
+  "count": 1
+}

@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "minecraft:pale_oak_wood"
+  },
+  "ingredient_count": 1,
+  "result": "minecraft:stripped_pale_oak_wood",
+  "count": 1
+}

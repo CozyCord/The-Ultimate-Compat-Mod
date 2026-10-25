@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "biomeswevegone:white_mangrove_wood"
+  },
+  "ingredient_count": 1,
+  "result": "biomeswevegone:stripped_white_mangrove_wood",
+  "count": 1
+}

@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "beachparty:palm_log"
+  },
+  "ingredient_count": 1,
+  "result": "beachparty:stripped_palm_log",
+  "count": 1
+}

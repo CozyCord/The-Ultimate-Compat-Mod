@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "biomeswevegone:redwood_wood"
+  },
+  "ingredient_count": 1,
+  "result": "biomeswevegone:stripped_redwood_wood",
+  "count": 1
+}

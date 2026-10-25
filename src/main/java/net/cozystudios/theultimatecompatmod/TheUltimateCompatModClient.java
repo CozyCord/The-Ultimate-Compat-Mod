@@ -1,12 +1,12 @@
 package net.cozystudios.theultimatecompatmod;
 
-import net.cozystudios.theultimatecompatmod.unlocks.JeiUnlockBridge;
 import net.cozystudios.theultimatecompatmod.unlocks.UnlockNetworking;
 import net.cozystudios.theultimatecompatmod.unlocks.UnlockedClientState;
 import net.cozystudios.theultimatecompatmod.workbench.ModRegistry;
 import net.cozystudios.theultimatecompatmod.workbench.client.CompatWorkbenchScreen;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.fabric.api.client.networking.v1.ClientPlayNetworking;
+import net.fabricmc.loader.api.FabricLoader;
 import net.minecraft.client.gui.screen.ingame.HandledScreens;
 import net.minecraft.util.Identifier;
 
@@ -14,6 +14,9 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class TheUltimateCompatModClient implements ClientModInitializer {
+
+    private static final boolean JEI_LOADED = FabricLoader.getInstance().isModLoaded("jei");
+
     @Override
     public void onInitializeClient() {
         HandledScreens.register(ModRegistry.COMPAT_WORKBENCH_MENU_TYPE, CompatWorkbenchScreen::new);
@@ -24,7 +27,9 @@ public class TheUltimateCompatModClient implements ClientModInitializer {
             for (int i = 0; i < n; i++) full.add(buf.readIdentifier());
             client.execute(() -> {
                 UnlockedClientState.setAll(full);
-                JeiUnlockBridge.unlockItems(full);
+                if (JEI_LOADED) {
+                    net.cozystudios.theultimatecompatmod.unlocks.JeiUnlockBridge.unlockItems(full);
+                }
             });
         });
 
@@ -34,7 +39,9 @@ public class TheUltimateCompatModClient implements ClientModInitializer {
             for (int i = 0; i < n; i++) delta.add(buf.readIdentifier());
             client.execute(() -> {
                 Set<Identifier> added = UnlockedClientState.addAll(delta);
-                JeiUnlockBridge.unlockItems(added);
+                if (JEI_LOADED) {
+                    net.cozystudios.theultimatecompatmod.unlocks.JeiUnlockBridge.unlockItems(added);
+                }
             });
         });
 

@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "biomeswevegone:cypress_wood"
+  },
+  "ingredient_count": 1,
+  "result": "biomeswevegone:stripped_cypress_wood",
+  "count": 1
+}

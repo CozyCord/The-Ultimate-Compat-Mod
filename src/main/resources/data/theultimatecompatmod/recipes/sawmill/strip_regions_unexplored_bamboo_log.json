@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "regions_unexplored:bamboo_log"
+  },
+  "ingredient_count": 1,
+  "result": "regions_unexplored:stripped_bamboo_log",
+  "count": 1
+}

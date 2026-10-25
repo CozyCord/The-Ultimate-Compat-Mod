@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "hexalia:cottonwood_log"
+  },
+  "ingredient_count": 1,
+  "result": "hexalia:stripped_cottonwood_log",
+  "count": 1
+}

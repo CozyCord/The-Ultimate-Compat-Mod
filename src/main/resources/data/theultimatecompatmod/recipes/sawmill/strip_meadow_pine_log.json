@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "meadow:pine_log"
+  },
+  "ingredient_count": 1,
+  "result": "meadow:stripped_pine_log",
+  "count": 1
+}

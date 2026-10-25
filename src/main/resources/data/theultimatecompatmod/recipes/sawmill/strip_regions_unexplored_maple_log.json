@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "regions_unexplored:maple_log"
+  },
+  "ingredient_count": 1,
+  "result": "regions_unexplored:stripped_maple_log",
+  "count": 1
+}

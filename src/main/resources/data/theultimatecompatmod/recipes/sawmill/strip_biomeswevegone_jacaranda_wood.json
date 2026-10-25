@@ -1,0 +1,9 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "item": "biomeswevegone:jacaranda_wood"
+  },
+  "ingredient_count": 1,
+  "result": "biomeswevegone:stripped_jacaranda_wood",
+  "count": 1
+}
