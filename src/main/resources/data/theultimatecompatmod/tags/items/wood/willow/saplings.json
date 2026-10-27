@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:willow_sapling", "required": false },
-    { "id": "natures_spirit:willow_sapling", "required": false },
-    { "id": "regions_unexplored:willow_sapling", "required": false }
-  ]
-}

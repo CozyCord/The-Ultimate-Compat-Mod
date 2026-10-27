@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "natures_spirit:larch_slab", "required": false },
-    { "id": "regions_unexplored:larch_slab", "required": false }
-  ]
-}

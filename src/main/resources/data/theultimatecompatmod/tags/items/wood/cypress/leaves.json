@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:cypress_leaves", "required": false },
-    { "id": "natures_spirit:cypress_leaves", "required": false },
-    { "id": "regions_unexplored:cypress_leaves", "required": false }
-  ]
-}

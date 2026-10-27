@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:aspen_planks", "required": false },
-    { "id": "natures_spirit:aspen_planks", "required": false }
-  ]
-}

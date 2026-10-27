@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:aspen_hanging_sign", "required": false },
-    { "id": "natures_spirit:aspen_hanging_sign", "required": false }
-  ]
-}

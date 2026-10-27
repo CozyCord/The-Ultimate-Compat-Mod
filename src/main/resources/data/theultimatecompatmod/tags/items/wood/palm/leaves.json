@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:palm_leaves", "required": false },
-    { "id": "regions_unexplored:palm_leaves", "required": false },
-    { "id": "beachparty:palm_leaves", "required": false }
-  ]
-}

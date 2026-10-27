@@ -23,8 +23,10 @@ public class TheUltimateCompatMod implements ModInitializer {
         Families.register();
         PlayerUnlocks.register();
 
-        LOGGER.info("[TheUltimateCompatMod] Loaded. {} duplicate items will be hidden across all domains.",
-                HiddenItemRegistry.map().size());
+        LOGGER.info("[TheUltimateCompatMod] Loaded. {} duplicate items tracked ({} farming hidden, {} wood always visible).",
+                HiddenItemRegistry.map().size(),
+                HiddenItemRegistry.loadedFarmingLoserItems().size(),
+                HiddenItemRegistry.loadedWoodLoserItems().size());
         CreativeTabHandler.register();
         ModRegistry.register();
         PlacedLoserRegistry.register();

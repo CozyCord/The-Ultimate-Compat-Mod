@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:redwood_boat", "required": false },
-    { "id": "natures_spirit:redwood_boat", "required": false },
-    { "id": "regions_unexplored:redwood_boat", "required": false }
-  ]
-}

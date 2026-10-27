@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:cypress_chest_boat", "required": false },
-    { "id": "natures_spirit:cypress_chest_boat", "required": false },
-    { "id": "regions_unexplored:cypress_chest_boat", "required": false }
-  ]
-}

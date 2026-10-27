@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:mahogany_sapling", "required": false },
-    { "id": "natures_spirit:mahogany_sapling", "required": false }
-  ]
-}

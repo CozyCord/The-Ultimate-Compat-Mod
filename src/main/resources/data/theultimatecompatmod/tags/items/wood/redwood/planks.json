@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:redwood_planks", "required": false },
-    { "id": "clutter:redwood_planks", "required": false },
-    { "id": "natures_spirit:redwood_planks", "required": false },
-    { "id": "regions_unexplored:redwood_planks", "required": false }
-  ]
-}

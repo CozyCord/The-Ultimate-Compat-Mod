@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:fir_fence", "required": false },
-    { "id": "natures_spirit:fir_fence", "required": false }
-  ]
-}

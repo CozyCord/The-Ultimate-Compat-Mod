@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:fir_pressure_plate", "required": false },
-    { "id": "natures_spirit:fir_pressure_plate", "required": false }
-  ]
-}

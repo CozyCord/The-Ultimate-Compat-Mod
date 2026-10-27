@@ -46,19 +46,22 @@ public final class WoodDuplicates {
         for (String suffix : SUFFIXES) {
             HiddenItemRegistry.put(
                 loserMod  + ":" + loserWood  + suffix,
-                winnerMod + ":" + winnerWood + suffix);
+                winnerMod + ":" + winnerWood + suffix,
+                HiddenItemRegistry.Category.WOOD);
         }
         for (String suffix : STRIPPED_SUFFIXES) {
             HiddenItemRegistry.put(
                 loserMod  + ":stripped_" + loserWood  + suffix,
-                winnerMod + ":stripped_" + winnerWood + suffix);
+                winnerMod + ":stripped_" + winnerWood + suffix,
+                HiddenItemRegistry.Category.WOOD);
         }
         for (String[] tpl : COMPAT_DYNAMIC) {
             String compatMod = tpl[0];
             String template  = tpl[1];
             String loserPath  = template.replace("{source_mod}", loserMod).replace("{wood}", loserWood);
             String winnerPath = template.replace("{source_mod}", winnerMod).replace("{wood}", winnerWood);
-            HiddenItemRegistry.put(compatMod + ":" + loserPath, compatMod + ":" + winnerPath);
+            HiddenItemRegistry.put(compatMod + ":" + loserPath, compatMod + ":" + winnerPath,
+                HiddenItemRegistry.Category.WOOD);
         }
     }
 

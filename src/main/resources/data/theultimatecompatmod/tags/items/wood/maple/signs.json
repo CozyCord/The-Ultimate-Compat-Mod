@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:maple_sign", "required": false },
-    { "id": "natures_spirit:maple_sign", "required": false },
-    { "id": "regions_unexplored:maple_sign", "required": false }
-  ]
-}

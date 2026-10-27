@@ -59,7 +59,7 @@ public class TheUltimateCompatModJEIPlugin implements IModPlugin {
 
         List<ItemStack> toHide = new ArrayList<>();
         List<ItemStack> toShow = new ArrayList<>();
-        for (Item item : HiddenItemRegistry.loadedLoserItems()) {
+        for (Item item : HiddenItemRegistry.loadedFarmingLoserItems()) {
             Identifier id = Registries.ITEM.getId(item);
             if (UnlockedClientState.isUnlocked(id)) {
                 toShow.add(new ItemStack(item));
@@ -73,7 +73,7 @@ public class TheUltimateCompatModJEIPlugin implements IModPlugin {
         if (!toShow.isEmpty()) {
             JeiUnlockBridge.unlockItems(UnlockedClientState.snapshot());
         }
-        TheUltimateCompatMod.LOGGER.info("[TheUltimateCompatMod/JEI] Hid {} duplicate items from JEI ({} already unlocked).",
+        TheUltimateCompatMod.LOGGER.info("[TheUltimateCompatMod/JEI] Hid {} duplicate farming items from JEI ({} already unlocked).",
                 toHide.size(), toShow.size());
     }
 

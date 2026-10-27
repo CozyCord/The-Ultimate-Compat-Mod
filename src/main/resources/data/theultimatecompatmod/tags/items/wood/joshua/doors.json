@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "natures_spirit:joshua_door", "required": false },
-    { "id": "regions_unexplored:joshua_door", "required": false }
-  ]
-}

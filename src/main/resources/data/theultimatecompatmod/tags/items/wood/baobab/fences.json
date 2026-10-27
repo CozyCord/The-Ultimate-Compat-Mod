@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:baobab_fence", "required": false },
-    { "id": "regions_unexplored:baobab_fence", "required": false }
-  ]
-}

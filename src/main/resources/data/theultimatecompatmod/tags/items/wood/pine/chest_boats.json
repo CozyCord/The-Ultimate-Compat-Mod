@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "meadow:pine_chest_boat", "required": false },
-    { "id": "biomeswevegone:pine_chest_boat", "required": false },
-    { "id": "regions_unexplored:pine_chest_boat", "required": false }
-  ]
-}

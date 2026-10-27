@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:maple_planks", "required": false },
-    { "id": "natures_spirit:maple_planks", "required": false },
-    { "id": "regions_unexplored:maple_planks", "required": false }
-  ]
-}

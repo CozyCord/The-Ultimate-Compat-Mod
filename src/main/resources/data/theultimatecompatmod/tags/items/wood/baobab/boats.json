@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:baobab_boat", "required": false },
-    { "id": "regions_unexplored:baobab_boat", "required": false }
-  ]
-}

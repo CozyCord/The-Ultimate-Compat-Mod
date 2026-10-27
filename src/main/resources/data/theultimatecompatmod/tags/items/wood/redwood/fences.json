@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:redwood_fence", "required": false },
-    { "id": "clutter:redwood_fence", "required": false },
-    { "id": "natures_spirit:redwood_fence", "required": false },
-    { "id": "regions_unexplored:redwood_fence", "required": false }
-  ]
-}

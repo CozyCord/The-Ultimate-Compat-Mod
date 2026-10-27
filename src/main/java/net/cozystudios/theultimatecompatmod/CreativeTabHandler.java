@@ -12,7 +12,7 @@ public final class CreativeTabHandler {
     private CreativeTabHandler() {}
 
     public static void register() {
-        Set<Item> losers = new HashSet<>(HiddenItemRegistry.loadedLoserItems());
+        Set<Item> losers = new HashSet<>(HiddenItemRegistry.loadedFarmingLoserItems());
         if (losers.isEmpty()) return;
 
         ItemGroupEvents.MODIFY_ENTRIES_ALL.register((group, entries) -> {

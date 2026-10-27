@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:mahogany_sign", "required": false },
-    { "id": "natures_spirit:mahogany_sign", "required": false }
-  ]
-}

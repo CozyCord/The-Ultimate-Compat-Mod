@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:maple_chest_boat", "required": false },
-    { "id": "natures_spirit:maple_chest_boat", "required": false },
-    { "id": "regions_unexplored:maple_chest_boat", "required": false }
-  ]
-}

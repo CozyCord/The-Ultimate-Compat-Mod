@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:willow_sign", "required": false },
-    { "id": "natures_spirit:willow_sign", "required": false },
-    { "id": "regions_unexplored:willow_sign", "required": false }
-  ]
-}

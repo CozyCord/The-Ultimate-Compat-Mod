@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:mahogany_pressure_plate", "required": false },
-    { "id": "natures_spirit:mahogany_pressure_plate", "required": false }
-  ]
-}

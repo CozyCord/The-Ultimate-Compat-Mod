@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:redwood_leaves", "required": false },
-    { "id": "clutter:redwood_leaves", "required": false },
-    { "id": "natures_spirit:redwood_leaves", "required": false },
-    { "id": "regions_unexplored:redwood_leaves", "required": false }
-  ]
-}

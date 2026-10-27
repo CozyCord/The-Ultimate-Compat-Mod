@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "natures_spirit:palo_verde_leaves", "required": false },
-    { "id": "biomeswevegone:palo_verde_leaves", "required": false }
-  ]
-}

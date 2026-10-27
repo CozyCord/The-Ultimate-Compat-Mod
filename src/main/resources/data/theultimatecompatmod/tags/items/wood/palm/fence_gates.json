@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:palm_fence_gate", "required": false },
-    { "id": "regions_unexplored:palm_fence_gate", "required": false },
-    { "id": "beachparty:palm_fence_gate", "required": false }
-  ]
-}

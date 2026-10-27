@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:maple_leaves", "required": false },
-    { "id": "regions_unexplored:maple_leaves", "required": false }
-  ]
-}

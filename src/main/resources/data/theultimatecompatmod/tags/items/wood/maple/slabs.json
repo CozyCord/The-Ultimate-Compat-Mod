@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:maple_slab", "required": false },
-    { "id": "natures_spirit:maple_slab", "required": false },
-    { "id": "regions_unexplored:maple_slab", "required": false }
-  ]
-}

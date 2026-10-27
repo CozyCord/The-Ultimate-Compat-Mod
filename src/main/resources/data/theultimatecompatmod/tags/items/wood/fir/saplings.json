@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:fir_sapling", "required": false },
-    { "id": "natures_spirit:fir_sapling", "required": false }
-  ]
-}

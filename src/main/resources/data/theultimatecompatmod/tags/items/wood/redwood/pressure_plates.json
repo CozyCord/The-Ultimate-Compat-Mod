@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "biomeswevegone:redwood_pressure_plate", "required": false },
-    { "id": "clutter:redwood_pressure_plate", "required": false },
-    { "id": "natures_spirit:redwood_pressure_plate", "required": false },
-    { "id": "regions_unexplored:redwood_pressure_plate", "required": false }
-  ]
-}
