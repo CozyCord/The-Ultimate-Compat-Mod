@@ -1,7 +1,7 @@
 {
-  "replace": true,
+  "replace": false,
   "values": [
-    {"id": "minecraft:chicken",             "required": false},
-    {"id": "farmersdelight:chicken_cuts",   "required": false}
+    { "id": "farmersdelight:chicken_cuts", "required": false },
+    { "id": "farm_and_charm:chicken_parts", "required": false }
   ]
 }

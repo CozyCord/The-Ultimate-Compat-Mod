@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "farmersdelight:tomato", "required": false },
+    { "id": "farmersdelight:cabbage_seeds", "required": false },
+    { "id": "farmersdelight:onion", "required": false },
+    { "id": "farm_and_charm:tomato", "required": false },
+    { "id": "farm_and_charm:lettuce", "required": false },
+    { "id": "farm_and_charm:onion", "required": false }
+  ]
+}

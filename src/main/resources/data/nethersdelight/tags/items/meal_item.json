@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "farmersdelight:bacon", "required": false },
+    { "id": "farmersdelight:bacon_and_eggs", "required": false },
+    { "id": "farmersdelight:tomato", "required": false },
+    { "id": "farm_and_charm:bacon", "required": false },
+    { "id": "farm_and_charm:bacon_with_eggs", "required": false },
+    { "id": "farm_and_charm:tomato", "required": false }
+  ]
+}

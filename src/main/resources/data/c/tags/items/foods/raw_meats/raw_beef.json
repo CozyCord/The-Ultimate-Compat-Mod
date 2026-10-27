@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "minecraft:beef", "required": false },
+    { "id": "farmersdelight:minced_beef", "required": false },
+    { "id": "farm_and_charm:minced_beef", "required": false }
+  ]
+}

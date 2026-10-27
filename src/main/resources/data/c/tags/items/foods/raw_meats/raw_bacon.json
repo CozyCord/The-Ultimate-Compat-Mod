@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "farmersdelight:bacon", "required": false },
+    { "id": "farm_and_charm:bacon", "required": false }
+  ]
+}

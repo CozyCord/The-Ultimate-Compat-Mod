@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "brewery:hops_seeds", "required": false },
+    { "id": "alcocraftplus:hop_seeds", "required": false },
+    { "id": "clutter:hops_seeds", "required": false }
+  ]
+}
