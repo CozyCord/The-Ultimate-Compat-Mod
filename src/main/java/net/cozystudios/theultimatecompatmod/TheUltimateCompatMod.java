@@ -2,13 +2,9 @@ package net.cozystudios.theultimatecompatmod;
 
 import net.cozystudios.theultimatecompatmod.farming.FarmingDuplicates;
 import net.cozystudios.theultimatecompatmod.placed.PlacedLoserRegistry;
-import net.cozystudios.theultimatecompatmod.unlocks.Families;
-import net.cozystudios.theultimatecompatmod.unlocks.PlayerUnlocks;
-import net.cozystudios.theultimatecompatmod.unlocks.UnlockNetworking;
 import net.cozystudios.theultimatecompatmod.wood.WoodDuplicates;
 import net.cozystudios.theultimatecompatmod.workbench.ModRegistry;
 import net.fabricmc.api.ModInitializer;
-import net.fabricmc.fabric.api.networking.v1.ServerPlayConnectionEvents;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -20,18 +16,11 @@ public class TheUltimateCompatMod implements ModInitializer {
     public void onInitialize() {
         FarmingDuplicates.register();
         WoodDuplicates.register();
-        Families.register();
-        PlayerUnlocks.register();
 
-        LOGGER.info("[TheUltimateCompatMod] Loaded. {} duplicate items tracked ({} farming hidden, {} wood always visible).",
-                HiddenItemRegistry.map().size(),
-                HiddenItemRegistry.loadedFarmingLoserItems().size(),
-                HiddenItemRegistry.loadedWoodLoserItems().size());
-        CreativeTabHandler.register();
+        LOGGER.info("[TheUltimateCompatMod] Loaded. Tracking {} duplicate items for placed-persistence.",
+                HiddenItemRegistry.map().size());
+
         ModRegistry.register();
         PlacedLoserRegistry.register();
-
-        ServerPlayConnectionEvents.JOIN.register((handler, sender, server) ->
-                UnlockNetworking.sendFullSync(handler.player));
     }
 }

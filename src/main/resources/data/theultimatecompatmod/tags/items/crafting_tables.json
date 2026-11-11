@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "minecraft:crafting_table", "required": false },
+    { "id": "theultimatecompatmod:compat_workbench", "required": false },
+    { "id": "#biomeswevegone:crafting_tables", "required": false },
+    { "id": "#c:workbench", "required": false },
+    { "id": "#forge:workbench", "required": false }
+  ]
+}

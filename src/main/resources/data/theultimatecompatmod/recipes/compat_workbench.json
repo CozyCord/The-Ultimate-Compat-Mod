@@ -8,7 +8,7 @@
   "key": {
     "P": { "tag": "minecraft:planks" },
     "S": { "item": "minecraft:stick" },
-    "T": { "item": "minecraft:crafting_table" }
+    "T": { "tag": "theultimatecompatmod:crafting_tables" }
   },
   "result": {
     "item": "theultimatecompatmod:compat_workbench",

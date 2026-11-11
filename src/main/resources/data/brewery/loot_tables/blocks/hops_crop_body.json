@@ -1,0 +1,59 @@
+{
+  "type": "minecraft:block",
+  "functions": [
+    { "function": "minecraft:explosion_decay" }
+  ],
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "brewery:hops_crop_body",
+                  "properties": { "age": "3" }
+                }
+              ],
+              "name": "brewery:hops"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "brewery:hops_seeds"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bonus_rolls": 0.0,
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:block_state_property",
+          "block": "brewery:hops_crop_body",
+          "properties": { "age": "3" }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:apply_bonus",
+              "enchantment": "minecraft:fortune",
+              "formula": "minecraft:binomial_with_bonus_count",
+              "parameters": { "extra": 3, "probability": 0.5715286 }
+            }
+          ],
+          "name": "brewery:hops_seeds"
+        }
+      ]
+    }
+  ]
+}

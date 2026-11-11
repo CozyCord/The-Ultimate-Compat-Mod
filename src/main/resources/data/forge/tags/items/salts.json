@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "expandeddelight:ground_salt",
+      "required": false
+    },
+    {
+      "id": "spelunkery:saltpeter",
+      "required": false
+    },
+    {
+      "id": "spelunkery:rock_salt",
+      "required": false
+    }
+  ]
+}

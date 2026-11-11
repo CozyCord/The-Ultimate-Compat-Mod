@@ -1,6 +1,10 @@
 {
   "replace": false,
   "values": [
-    "theultimatecompatmod:compat_workbench"
+    "theultimatecompatmod:compat_workbench",
+    {
+      "id": "alcocraftplus:keg",
+      "required": false
+    }
   ]
 }

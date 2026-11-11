@@ -1,0 +1,269 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "things:bater_wucket",
+      "required": false
+    },
+    {
+      "id": "spelunkery:spring_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:black_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:condense_black_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_black_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_condense_black_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:blue_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:condense_blue_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_blue_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_condense_blue_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:brown_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:condense_brown_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_brown_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_condense_brown_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:cyan_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:condense_cyan_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_cyan_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_condense_cyan_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:gray_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:condense_gray_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_gray_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_condense_gray_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:green_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:condense_green_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_green_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_condense_green_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:light_blue_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:condense_light_blue_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_light_blue_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_condense_light_blue_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:light_gray_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:condense_light_gray_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_light_gray_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_condense_light_gray_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:lime_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:condense_lime_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_lime_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_condense_lime_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:magenta_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:condense_magenta_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_magenta_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_condense_magenta_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:orange_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:condense_orange_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_orange_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_condense_orange_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:pink_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:condense_pink_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_pink_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_condense_pink_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:purple_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:condense_purple_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_purple_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_condense_purple_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:red_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:condense_red_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_red_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_condense_red_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:white_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:condense_white_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_white_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_condense_white_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:yellow_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:condense_yellow_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_yellow_water_bucket",
+      "required": false
+    },
+    {
+      "id": "colored_water:luminous_condense_yellow_water_bucket",
+      "required": false
+    }
+  ]
+}
